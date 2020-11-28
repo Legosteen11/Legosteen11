@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 👋
+
+- I study Computing Science 💻 at the Radboud University Nijmegen 🇳🇱
+- I'm often doing CTFs and other security stuff 👨‍💻
+- ☀️🌱 probably busy working on photovoltaic measurement tools at [pvblocks.com](https://pvblocks.com/) ☀️
 
 <!--
 **Legosteen11/Legosteen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
